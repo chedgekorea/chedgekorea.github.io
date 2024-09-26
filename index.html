@@ -68,6 +68,13 @@ title: Home
 		{% assign papers2024 = site.data.publications.papers | where: "year", "2024" %}
 		{% for paper in papers2024 %}
 		  <div class="paper">
+			
+			{% if paper.image %}
+			<div class="paper-image">
+			  <img src="{{ paper.image }}" alt="Paper Image" height="100px">
+			</div>
+			{% endif %}
+
 			<p class="title"><b>{{ paper.title }}</b></p>
 			<p>{{ paper.authors }}</p>
 			<p><i>{{ paper.venue }}</i></p>
