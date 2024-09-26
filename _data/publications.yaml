@@ -1,0 +1,16 @@
+papers:
+  - title: "Personalized Video Relighting With an At-Home Light Stage"
+    authors: "Jun Myeong Choi, Max Christman, Roni Sengupta"
+    venue: "ECCV 2024"
+    paper_pdf: "https://arxiv.org/pdf/2311.08843"
+    # code: "https://github.com/UNITES-Lab/Mew"
+    website: "https://chedgekorea.github.io/relighting/"
+    year: "2024"
+
+  - title: "Building Secure and Engaging Video Communication by Using Monitor Illumination"
+    authors: "Jun Myeong Choi, Johnathan Leung, Noah Frahm, Max Christman, Gedas Bertasius, Roni Sengupta"
+    venue: "CVPR 2024 Workshop on Multimedia Forensics"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Choi_Building_Secure_and_Engaging_Video_Communication_by_Using_Monitor_Illumination_CVPRW_2024_paper.pdf"
+    # code: "https://github.com/UNITES-Lab/Mew"
+    year: "2024"
+  
