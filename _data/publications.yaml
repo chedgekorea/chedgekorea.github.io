@@ -14,3 +14,10 @@ papers:
     # code: "https://github.com/UNITES-Lab/Mew"
     year: "2024"
   
+  - title: "Ae-nerf: Auto-encoding neural radiance fields for 3d-aware object manipulation"
+    authors: "Mira Kim, Jaehoon Ko, Kyusun Cho, Junmyeong Choi, Daewon Choi, Seungryong Kim"
+    venue: "preprint"
+    paper_pdf: "https://arxiv.org/pdf/2204.13426"
+    # code: "https://github.com/UNITES-Lab/Mew"
+    year: "2022"
+  
