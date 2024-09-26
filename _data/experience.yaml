@@ -2,11 +2,10 @@ experiences:
 - place: "UNC Chapel Hill"
   time: "Aug. 2024 - "
   title: "Ph.D. Student in Computer Science"
-  subtitle: "Advisor: <a href='https://www.cs.unc.edu/~ronisen/'  style='text-decoration: none;'>Prof. Roni Sengupta/a>"
+  subtitle: "Advisor: <a href='https://www.cs.unc.edu/~ronisen/'  style='text-decoration: none;'>Prof. Roni Sengupta</a>"
   category: "school"
 
 - place: "Korea University"
   time: "Mar. 2017 - May. 2022"
   title: "B.S. in Computer Science"
   category: "school"
-    
