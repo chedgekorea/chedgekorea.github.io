@@ -1,4 +1,13 @@
 papers:
+  - title: "ScribbleLight: Single Image Indoor Relighting with Scribbles"
+    authors: "<b><u>Jun Myeong Choi</u></b>, Annie Wang, Pieter Peers, Anand Bhattad, Roni Sengupta"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2411.17696"
+    image: "assets/project_image/ScribbleLight.png"
+    # code: "https://github.com/UNITES-Lab/Mew"
+    website: "https://chedgekorea.github.io/ScribbleLight/"
+    year: "2025"
+
   - title: "Personalized Video Relighting With an At-Home Light Stage"
     authors: "<b><u>Jun Myeong Choi</u></b>, Max Christman, Roni Sengupta"
     venue: "ECCV 2024"
