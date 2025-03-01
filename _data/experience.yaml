@@ -1,4 +1,10 @@
-experiences:  
+experiences:
+- place: "Adobe Research"
+  time: "May. 2025 - Aug. 2025"
+  title: "Research Intern"
+  subtitle: "Mentors: <a href='https://joonyoung-cv.github.io'  style='text-decoration: none;'>Dr. Joon-Young Lee</a>"
+  category: "work"
+  
 - place: "UNC Chapel Hill"
   time: "Aug. 2022 - "
   title: "Ph.D. Student in Computer Science"
