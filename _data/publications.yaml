@@ -21,7 +21,7 @@ papers:
     authors: "Xinqi (Ana) Xiong, Andrea Dunn Beltran, <b><u>Jun Myeong Choi</u></b>, Marc Niethammer, Roni Sengupta"
     venue: "arXiv 2025"
     paper_pdf: "https://arxiv.org/abs/2504.17067"
-    image: "assets/project_image/pps.png"
+    image: "assets/project_image/ppsctrl.png"
     # code: ""
     website: "https://github.com/anaxqx/PPS-Ctrl"
     year: "2025"
