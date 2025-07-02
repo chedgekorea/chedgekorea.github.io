@@ -2,7 +2,7 @@ papers:
   - title: "ScribbleLight: Single Image Indoor Relighting with Scribbles"
     authors: "<b><u>Jun Myeong Choi</u></b>, Annie Wang, Pieter Peers, Anand Bhattad, Roni Sengupta"
     venue: "CVPR 2025"
-    paper_pdf: "https://arxiv.org/abs/2411.17696"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2025/papers/Choi_ScribbleLight_Single_Image_Indoor_Relighting_with_Scribbles_CVPR_2025_paper.pdf"
     image: "assets/project_image/ScribbleLight.png"
     # code: ""
     website: "https://chedgekorea.github.io/ScribbleLight/"
