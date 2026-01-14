@@ -1,5 +1,11 @@
 experiences:
 - place: "Adobe Research"
+  time: "Feb. 2026 - May. 2026"
+  title: "Research Intern"
+  subtitle: "Mentor: <a href='https://gorokee.github.io/jsyoon/' style='text-decoration: none;'>Dr. Jae Shin Yoon</a>"
+  category: "work"
+  
+- place: "Adobe Research"
   time: "May. 2025 - Nov. 2025"
   title: "Research Intern"
   subtitle: "Mentor: <a href='https://joonyoung-cv.github.io' style='text-decoration: none;'>Dr. Joon-Young Lee</a><br><a href='https://gorokee.github.io/jsyoon/' style='text-decoration: none;'>Dr. Jae Shin Yoon</a>"
