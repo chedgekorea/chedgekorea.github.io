@@ -3,7 +3,7 @@ papers:
     authors: "Patrick Noras, <b><u>Jun Myeong Choi</u></b>, Didier Stricker, Pieter Peers, Roni Sengupta"
     venue: "arXiv 2025"
     paper_pdf: "https://www.arxiv.org/pdf/2512.09925"
-    image: "assets/project_image/gains.png"
+    image: "assets/project_image/gains.pdf"
     # code: ""
     website: "https://patrickbail.github.io/gains/"
     year: "2025"
