@@ -1,4 +1,12 @@
 papers:
+  - title: "HarmoVid: Relightful Video Portrait Harmonization"
+    authors: "<b><u>Jun Myeong Choi</u></b>, Jae Shin Yoon, Luchao Qi, Roni Sengupta, Joon-Young Lee"
+    venue: "CVPR 2026"
+    paper_pdf: "https://chedgekorea.github.io/"
+    image: "assets/project_image/harmovid.png"
+    # code: ""
+    website: "https://patrickbail.github.io/gains/"
+    year: "2025"
   - title: "GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures"
     authors: "Patrick Noras, <b><u>Jun Myeong Choi</u></b>, Didier Stricker, Pieter Peers, Roni Sengupta"
     venue: "arXiv 2025"
