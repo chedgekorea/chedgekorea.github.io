@@ -2,10 +2,10 @@ papers:
   - title: "HarmoVid: Relightful Video Portrait Harmonization"
     authors: "<b><u>Jun Myeong Choi</u></b>, Jae Shin Yoon, Luchao Qi, Roni Sengupta, Joon-Young Lee"
     venue: "CVPR 2026"
-    paper_pdf: "https://chedgekorea.github.io/"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2026/papers/Choi_Relightful_Video_Portrait_Harmonization_CVPR_2026_paper.pdf"
     image: "assets/project_image/harmovid.png"
     # code: ""
-    website: "https://chedgekorea.github.io/"
+    website: "https://chedgekorea.github.io/HarmoVid/"
     year: "2026"
 
   - title: "ScribbleLight: Single Image Indoor Relighting with Scribbles"
