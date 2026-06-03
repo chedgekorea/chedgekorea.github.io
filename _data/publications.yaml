@@ -34,7 +34,7 @@ papers:
     year: "2025"
   - title: "ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation"
     authors: "Daniel Rho, <b><u>Jun Myeong Choi</u></b>, Biswadip Dey, Roni Sengupta"
-    venue: "under-review"
+    venue: "TMLR 2026"
     paper_pdf: "https://arxiv.org/abs/2506.05317"
     image: "assets/project_image/projo.png"
     # code: ""
