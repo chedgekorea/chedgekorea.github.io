@@ -39,7 +39,7 @@ papers:
     image: "assets/project_image/projo.png"
     # code: ""
     website: "https://daniel03c1.github.io/ProJo4D/"
-    year: "2025"
+    year: "2026"
   - title: "PPS-Ctrl: Controllable Sim-to-Real Translation for Colonoscopy Depth Estimation"
     authors: "Xinqi (Ana) Xiong, Andrea Dunn Beltran, <b><u>Jun Myeong Choi</u></b>, Marc Niethammer, Roni Sengupta"
     venue: "arXiv 2025"
