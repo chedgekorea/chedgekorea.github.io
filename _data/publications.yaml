@@ -8,6 +8,15 @@ papers:
     website: "https://chedgekorea.github.io/HarmoVid/"
     year: "2026"
 
+  - title: "MonoPhysics: Estimating Geometry, Appearance, and Physical Parameters from Monocular Videos"
+    authors: "Daniel Rho, <b><u>Jun Myeong Choi</u></b>, Matthew Thorton, Biswadip Dey, Roni Sengupta"
+    venue: "arXiv 2026"
+    paper_pdf: "https://arxiv.org/pdf/2605.30320"
+    image: "assets/project_image/monophys.png"
+    # code: ""
+    website: "https://daniel03c1.github.io/MonoPhysics/"
+    year: "2026"
+
   - title: "ScribbleLight: Single Image Indoor Relighting with Scribbles"
     authors: "<b><u>Jun Myeong Choi</u></b>, Annie Wang, Pieter Peers, Anand Bhattad, Roni Sengupta"
     venue: "CVPR 2025"
