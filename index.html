@@ -87,15 +87,15 @@ title: Home
 	</p>
   
 	<ul class="tab-nav">
-	  <li><div class="button" data-ref="#papers-2027">2027</div></li>
-	  <li><div class="button active" data-ref="#papers-2026">2026</div></li>
+	  <li><div class="button active" data-ref="#papers-2027">2027</div></li>
+	  <li><div class="button" data-ref="#papers-2026">2026</div></li>
 	  <li><div class="button" data-ref="#papers-2025">2025</div></li>
 	  <li><div class="button" data-ref="#papers-2024">2024</div></li>
 	  <li><div class="button" data-ref="#papers-all">All</div></li>
 	</ul>
   
 	<div class="tab-content">
-	  <div class="tab-pane" id="2027">
+	  <div class="tab-pane active" id="2027">
 		{% assign papers2027 = site.data.publications.papers | where: "year", "2027" %}
 		{% for paper in papers2027 %}
 		  <div class="paper">
@@ -141,7 +141,7 @@ title: Home
 
 
 		
-	  <div class="tab-pane active" id="papers-2026">
+	  <div class="tab-pane" id="papers-2026">
 		{% assign papers2026 = site.data.publications.papers | where: "year", "2026" %}
 		{% for paper in papers2026 %}
 		  <div class="paper">
